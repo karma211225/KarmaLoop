@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # KarmaLoop      
 ## Highly accurate and efficient deep learning paradigm for full-atom protein loop modeling with KarmaLoop   
 ![](workflow.png)
@@ -145,4 +144,3 @@ python -u post_processing.py --modeled_loop_dir /root/KarmaLoop/example/CASP15/t
 # KarmaLoop
 Highly accurate and efficient deep learning paradigm for full-atom protein loop modeling with KarmaLoop      
 Code for KarmaLoop will be coming soon. Thanks for patience!
->>>>>>> fbb9f8d619fd290514243ee455fc26c76ecb8856
