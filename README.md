@@ -140,7 +140,4 @@ Example for CASP15:
 cd /root/KarmaLoop/utils 
 python -u post_processing.py --modeled_loop_dir /root/KarmaLoop/example/CASP15/test_result/0 --output_dir /root/KarmaLoop/example/CASP15/test_result/post
 ```
-=======
-# KarmaLoop
-Highly accurate and efficient deep learning paradigm for full-atom protein loop modeling with KarmaLoop      
-Code for KarmaLoop will be coming soon. Thanks for patience!
+\
